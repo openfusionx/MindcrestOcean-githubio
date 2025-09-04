@@ -1,0 +1,10 @@
+{
+  "link.title.社区": {
+    "message": "Community",
+    "description": "Footer column title translation for 社区"
+  },
+  "link.title.更多": {
+    "message": "More",
+    "description": "Footer column title translation for 更多"
+  }
+}

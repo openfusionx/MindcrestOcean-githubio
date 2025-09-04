@@ -1,0 +1,83 @@
+{
+  "zh-Hans": {
+    "common": {
+      "getStart": "快速开始",
+      "architecture": "系统架构",
+      "learnMore": "了解更多",
+      "coreFeatures": "核心特性",
+      "coreFeaturesDesc": "让您的大数据组件管理运维变得简单高效的核心特性",
+      "development": "开发脚手架",
+      "honor": "我们的荣誉",
+      "ourUsers": "Our Users",
+      "readMore": "阅读更多",
+      "download": "下载",
+      "releaseDate": "发布日期",
+      "newFeatures": "新特性",
+      "enhancement": "增强点",
+      "bugFixs": "问题修复",
+      "changeLog": "详细变更"
+    },
+    "slogan": {
+      "key": "",
+      "description": "新一代云原生大数据管家，致力于帮助用户快速构建起稳定、高效、可弹性伸缩的大数据云原生平台"
+    },
+    "feature": [
+      {
+        "title": "简单易用",
+        "icon": "lni-magnet",
+        "details": "仅需几步即可快速完成数千个节点规模的大数据集群部署，界面化操作、轻松管理各种大数据组件，大幅提升运维工作效率"
+      },
+      {
+        "title": "高兼容性",
+        "icon": "lni-library",
+        "details": "全面兼容开源生态，已支持多种常用大数据组件、并且适配各种复杂环境，支持常用Linux生态操作系统及arm和x86机器"
+      },
+      {
+        "title": "云原生",
+        "icon": "lni-layers",
+        "details": "支持大数据服务以容器化方式运行，基于Kubernetes内核实现大数据组件的自动运维调优，避免组件繁琐的运维调优工作"
+      }
+    ]
+  },
+  "en": {
+    "common": {
+      "getStart": "Quick Start",
+      "architecture": "System Architecture",
+      "description": "Description",
+      "learnMore": "Learn More",
+      "coreFeatures": "Core Features",
+      "coreFeaturesDesc": "Modern features that will make your project easier.",
+      "development": "Development Framework",
+      "honor": "Our Honor",
+      "ourUsers": "Our Users",
+      "readMore": "Read More",
+      "download": "Download",
+      "releaseDate": "Release Date",
+      "newFeatures": "New Features",
+      "enhancement": "Enhancement point",
+      "bugFixs": "Bug Fix",
+      "changeLog": "Changelog"
+    },
+    "slogan": {
+      "key": "",
+      "description":  "致力于快速实现部署、管理、监控以及自动化运维大数据云原生平台，帮助您快速构建起稳定、高效、可弹性伸缩的大数据云原生平台"
+    },
+    "feature": [
+      {
+        "title": "Easy to use",
+        "icon": "lni-magnet",
+        "details": "Complete deployment of big data clusters with thousands of nodes in just a few steps. GUI operations make it easy to manage various big data components, greatly improving O&M efficiency."
+      },
+      {
+        "title": "High compatibility",
+        "icon": "lni-library",
+        "details": "Fully compatible with the open-source ecosystem. Supports many common big data components and adapts to complex environments, including common Linux distributions and both ARM and x86 machines."
+      },
+      {
+        "title": "Cloud native",
+        "icon": "lni-layers",
+        "details": "Supports running big data services in containers and leverages Kubernetes for automated O&M and tuning, avoiding tedious manual optimization."
+      }
+    ]
+  }
+}

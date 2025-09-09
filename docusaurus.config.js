@@ -28,7 +28,7 @@ const config = {
   title: 'Mindcrest Ocean',
   tagline: '致力于快速实现部署、管理、监控以及自动化运维大数据云原生平台，帮助您快速构建起稳定、高效、可弹性伸缩的大数据云原生平台',
   url: 'https://mindcrestocean.github.io',
-  baseUrl: '/mindcrestocean-website/',
+  baseUrl: '/mindcrestocean/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/brand.svg',
@@ -36,7 +36,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'mindcrestocean', // Usually your GitHub org/user name.
-  projectName: 'mindcrestocean-website', // Usually your repo name.
+  projectName: 'mindcrestocean', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -71,7 +71,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/mindcrestocean/mindcrestocean-website/',
+            'https://github.com/mindcrestocean/mindcrestocean/',
         },
         // 移除博客配置
         // blog: false,
@@ -115,7 +115,7 @@ const config = {
                 value: '<hr style="margin: 0.3rem 0;">',
               },
               {
-                href: 'https://github.com/mindcrestocean/mindcrestocean-website/',
+                href: 'https://github.com/mindcrestocean/mindcrestocean/',
                 label: 'Help Us Translate',
               },
             ],

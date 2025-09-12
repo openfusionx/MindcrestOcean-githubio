@@ -27,16 +27,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Mindcrest Ocean',
   tagline: '致力于快速实现部署、管理、监控以及自动化运维大数据云原生平台，帮助您快速构建起稳定、高效、可弹性伸缩的大数据云原生平台',
-  url: 'https://vennbc.github.io',
-  baseUrl: '/mindcrestocean/',
+  url: 'https://openfusionx.github.io',
+  baseUrl: '/MindcrestOcean-githubio/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/brand.svg',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'vennbc', // Usually your GitHub org/user name.
-  projectName: 'mindcrestocean', // Usually your repo name.
+  organizationName: 'openfusionx', // Usually your GitHub org/user name.
+  projectName: 'MindcrestOcean-githubio', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want

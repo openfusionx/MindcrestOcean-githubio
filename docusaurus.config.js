@@ -71,7 +71,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/mindcrestocean/mindcrestocean/',
+            'https://github.com/openfusionx/MindcrestOcean-githubio/',
         },
         // 移除博客配置
         // blog: false,
@@ -115,7 +115,7 @@ const config = {
                 value: '<hr style="margin: 0.3rem 0;">',
               },
               {
-                href: 'https://github.com/mindcrestocean/mindcrestocean/',
+                href: 'https://github.com/openfusionx/MindcrestOcean-githubio',
                 label: 'Help Us Translate',
               },
             ],
@@ -129,7 +129,7 @@ const config = {
           // 移除博客链接
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/mindcrestocean/mindcrestocean',
+            href: 'https://github.com/openfusionx/MindcrestOcean-githubio',
             label: 'GitHub',
             position: 'left',
           },
@@ -156,7 +156,7 @@ const config = {
               // },
               {
                 label: 'Github Discussion',
-                href: 'https://github.com/mindcrestocean/mindcrestocean',
+                href: 'https://github.com/openfusionx/MindcrestOcean-githubio',
               },
               // {
               //   label: 'Twitter',
@@ -174,7 +174,7 @@ const config = {
               // },
               {
                 label: 'GitHub Issues',
-                href: 'https://github.com/mindcrestocean/mindcrestocean/issues',
+                href: 'https://github.com/openfusionx/MindcrestOcean-githubio/issues',
               },
             ],
           },

@@ -1,0 +1,94 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/MindcrestOcean-githubio/en/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "最新版本(unreleased)",
+          "isLast": true,
+          "path": "/MindcrestOcean-githubio/en/docs/current",
+          "mainDocId": "概览",
+          "docs": [
+            {
+              "id": "comminicate",
+              "path": "/MindcrestOcean-githubio/en/docs/current/comminicate"
+            },
+            {
+              "id": "faq",
+              "path": "/MindcrestOcean-githubio/en/docs/current/faq"
+            },
+            {
+              "id": "使用手册/使用指南",
+              "path": "/MindcrestOcean-githubio/en/docs/current/使用手册/使用指南",
+              "sidebar": "docSidebar"
+            },
+            {
+              "id": "快速开始/准备环境",
+              "path": "/MindcrestOcean-githubio/en/docs/current/快速开始/准备环境",
+              "sidebar": "docSidebar"
+            },
+            {
+              "id": "快速开始/快速部署",
+              "path": "/MindcrestOcean-githubio/en/docs/current/快速开始/快速部署",
+              "sidebar": "docSidebar"
+            },
+            {
+              "id": "快速开始/概念",
+              "path": "/MindcrestOcean-githubio/en/docs/current/快速开始/概念",
+              "sidebar": "docSidebar"
+            },
+            {
+              "id": "架构设计/技术选型",
+              "path": "/MindcrestOcean-githubio/en/docs/current/架构设计/技术选型",
+              "sidebar": "docSidebar"
+            },
+            {
+              "id": "架构设计/架构设计",
+              "path": "/MindcrestOcean-githubio/en/docs/current/架构设计/",
+              "sidebar": "docSidebar"
+            },
+            {
+              "id": "概览",
+              "path": "/MindcrestOcean-githubio/en/docs/current/概览",
+              "sidebar": "docSidebar"
+            },
+            {
+              "id": "版本计划/roadmap",
+              "path": "/MindcrestOcean-githubio/en/docs/current/版本计划/roadmap"
+            },
+            {
+              "id": "版本计划/version",
+              "path": "/MindcrestOcean-githubio/en/docs/current/版本计划/version"
+            },
+            {
+              "id": "/category/quick-start",
+              "path": "/MindcrestOcean-githubio/en/docs/current/category/quick-start",
+              "sidebar": "docSidebar"
+            },
+            {
+              "id": "/category/configuration-center",
+              "path": "/MindcrestOcean-githubio/en/docs/current/category/configuration-center",
+              "sidebar": "docSidebar"
+            },
+            {
+              "id": "/category/loader",
+              "path": "/MindcrestOcean-githubio/en/docs/current/category/loader",
+              "sidebar": "docSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docSidebar": {
+              "link": {
+                "path": "/MindcrestOcean-githubio/en/docs/current/概览",
+                "label": "概览"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

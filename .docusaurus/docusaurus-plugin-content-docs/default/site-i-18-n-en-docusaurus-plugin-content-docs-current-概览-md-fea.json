@@ -1,0 +1,24 @@
+{
+  "unversionedId": "概览",
+  "id": "概览",
+  "title": "DataSophon",
+  "description": "VISION",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/概览.md",
+  "sourceDirName": ".",
+  "slug": "/概览",
+  "permalink": "/MindcrestOcean-githubio/en/docs/current/概览",
+  "draft": false,
+  "editUrl": "https://github.com/openfusionx/MindcrestOcean-githubio/docs/概览.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0,
+    "sidebar_label": "Overview"
+  },
+  "sidebar": "docSidebar",
+  "next": {
+    "title": "Quick Start",
+    "permalink": "/MindcrestOcean-githubio/en/docs/current/category/quick-start"
+  }
+}

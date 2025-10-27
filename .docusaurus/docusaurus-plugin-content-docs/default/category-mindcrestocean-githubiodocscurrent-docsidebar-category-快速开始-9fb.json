@@ -1,0 +1,15 @@
+{
+  "title": "快速开始",
+  "slug": "/category/quick-start",
+  "permalink": "/MindcrestOcean-githubio/docs/current/category/quick-start",
+  "navigation": {
+    "previous": {
+      "title": "概览",
+      "permalink": "/MindcrestOcean-githubio/docs/current/概览"
+    },
+    "next": {
+      "title": "概念",
+      "permalink": "/MindcrestOcean-githubio/docs/current/快速开始/概念"
+    }
+  }
+}

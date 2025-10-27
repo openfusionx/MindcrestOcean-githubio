@@ -1,0 +1,28 @@
+{
+  "unversionedId": "快速开始/概念",
+  "id": "快速开始/概念",
+  "title": "概念",
+  "description": "* Cluster",
+  "source": "@site/docs/快速开始/概念.md",
+  "sourceDirName": "快速开始",
+  "slug": "/快速开始/概念",
+  "permalink": "/MindcrestOcean-githubio/en/docs/current/快速开始/概念",
+  "draft": false,
+  "editUrl": "https://github.com/openfusionx/MindcrestOcean-githubio/docs/快速开始/概念.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "concept"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Quick Start",
+    "permalink": "/MindcrestOcean-githubio/en/docs/current/category/quick-start"
+  },
+  "next": {
+    "title": "Prepare the environment",
+    "permalink": "/MindcrestOcean-githubio/en/docs/current/快速开始/准备环境"
+  }
+}

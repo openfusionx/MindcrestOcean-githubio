@@ -1,0 +1,15 @@
+{
+  "title": "Use Guide",
+  "slug": "/category/configuration-center",
+  "permalink": "/MindcrestOcean-githubio/en/docs/current/category/configuration-center",
+  "navigation": {
+    "previous": {
+      "title": "快速部署",
+      "permalink": "/MindcrestOcean-githubio/en/docs/current/快速开始/快速部署"
+    },
+    "next": {
+      "title": "使用指南",
+      "permalink": "/MindcrestOcean-githubio/en/docs/current/使用手册/使用指南"
+    }
+  }
+}

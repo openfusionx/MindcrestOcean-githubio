@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkathenaserving=self.webpackChunkathenaserving||[]).push([[8691],{547:e=>{e.exports=JSON.parse('{"label":"opensource","permalink":"/MindcrestOcean-githubio/en/blog/tags/opensource","allTagsPath":"/MindcrestOcean-githubio/en/blog/tags","count":1}')}}]);

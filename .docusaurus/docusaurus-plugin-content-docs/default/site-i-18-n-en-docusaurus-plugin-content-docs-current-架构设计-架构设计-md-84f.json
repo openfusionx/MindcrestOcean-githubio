@@ -1,0 +1,28 @@
+{
+  "unversionedId": "架构设计/架构设计",
+  "id": "架构设计/架构设计",
+  "title": "架构设计",
+  "description": "架构概览",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/架构设计/架构设计.md",
+  "sourceDirName": "架构设计",
+  "slug": "/架构设计/",
+  "permalink": "/MindcrestOcean-githubio/en/docs/current/架构设计/",
+  "draft": false,
+  "editUrl": "https://github.com/openfusionx/MindcrestOcean-githubio/docs/架构设计/架构设计.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "sidebar_label": "架构设计"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Loader",
+    "permalink": "/MindcrestOcean-githubio/en/docs/current/category/loader"
+  },
+  "next": {
+    "title": "技术选型",
+    "permalink": "/MindcrestOcean-githubio/en/docs/current/架构设计/技术选型"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "架构设计",
+  "description": "Examples demonstrating the usage of CLI commands.",
+  "slug": "/category/loader",
+  "permalink": "/MindcrestOcean-githubio/docs/current/category/loader",
+  "navigation": {
+    "previous": {
+      "title": "使用指南",
+      "permalink": "/MindcrestOcean-githubio/docs/current/使用手册/使用指南"
+    },
+    "next": {
+      "title": "架构设计",
+      "permalink": "/MindcrestOcean-githubio/docs/current/架构设计/"
+    }
+  }
+}

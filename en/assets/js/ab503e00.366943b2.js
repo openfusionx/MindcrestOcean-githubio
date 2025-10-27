@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkathenaserving=self.webpackChunkathenaserving||[]).push([[1259],{4807:e=>{e.exports=JSON.parse('{"permalink":"/MindcrestOcean-githubio/en/blog/tags/opensource","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

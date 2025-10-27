@@ -1,0 +1,203 @@
+{
+  "/MindcrestOcean-githubio/en/blog-78e": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "3bbdd7fd"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "22ea76ac"
+      },
+      {
+        "content": "7661071f"
+      }
+    ],
+    "metadata": "23a5c95a"
+  },
+  "/MindcrestOcean-githubio/en/blog/archive-a03": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "3bbdd7fd"
+    },
+    "archive": "17b981ba"
+  },
+  "/MindcrestOcean-githubio/en/blog/git-5f9": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "3bbdd7fd"
+    },
+    "sidebar": "814f3328",
+    "content": "0b8dc3b2"
+  },
+  "/MindcrestOcean-githubio/en/blog/tags-9a6": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "3bbdd7fd"
+    },
+    "sidebar": "814f3328",
+    "tags": "2740b12d"
+  },
+  "/MindcrestOcean-githubio/en/blog/tags/athenaserving-429": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "3bbdd7fd"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "tag": "a7e343de",
+    "listMetadata": "45ab8671"
+  },
+  "/MindcrestOcean-githubio/en/blog/tags/git-be6": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "3bbdd7fd"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "22ea76ac"
+      }
+    ],
+    "tag": "12b88c82",
+    "listMetadata": "623585ee"
+  },
+  "/MindcrestOcean-githubio/en/blog/tags/opensource-a95": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "3bbdd7fd"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "tag": "37e80927",
+    "listMetadata": "ab503e00"
+  },
+  "/MindcrestOcean-githubio/en/blog/welcome-613": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "3bbdd7fd"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/MindcrestOcean-githubio/en/home/-d0d": {
+    "__comp": "f106860d",
+    "__context": {
+      "plugin": "43e98941"
+    },
+    "config": "5e9f5e1a"
+  },
+  "/MindcrestOcean-githubio/en/home/content-fd0": {
+    "__comp": "736a8b16",
+    "__context": {
+      "plugin": "43e98941"
+    },
+    "config": "5e9f5e1a"
+  },
+  "/MindcrestOcean-githubio/en/home/feature-bf8": {
+    "__comp": "181d6f49",
+    "__context": {
+      "plugin": "43e98941"
+    },
+    "config": "5e9f5e1a"
+  },
+  "/MindcrestOcean-githubio/en/home/hero-d30": {
+    "__comp": "0e49e91b",
+    "__context": {
+      "plugin": "43e98941"
+    },
+    "config": "5e9f5e1a"
+  },
+  "/MindcrestOcean-githubio/en/markdown-page-ab0": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "43e98941"
+    },
+    "content": "393be207"
+  },
+  "/MindcrestOcean-githubio/en/versions-b8f": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "43e98941"
+    },
+    "content": "27d3c76c"
+  },
+  "/MindcrestOcean-githubio/en/docs/current-476": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "e1e3d905"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/MindcrestOcean-githubio/en/docs/current/category/configuration-center-a0d": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "4b096bc1"
+  },
+  "/MindcrestOcean-githubio/en/docs/current/category/loader-828": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "41acc10f"
+  },
+  "/MindcrestOcean-githubio/en/docs/current/category/quick-start-3c1": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "836bb7e6"
+  },
+  "/MindcrestOcean-githubio/en/docs/current/comminicate-41e": {
+    "__comp": "17896441",
+    "content": "c1526aaa"
+  },
+  "/MindcrestOcean-githubio/en/docs/current/faq-132": {
+    "__comp": "17896441",
+    "content": "f5191c80"
+  },
+  "/MindcrestOcean-githubio/en/docs/current/使用手册/使用指南-c1b": {
+    "__comp": "17896441",
+    "content": "65aea767"
+  },
+  "/MindcrestOcean-githubio/en/docs/current/快速开始/准备环境-174": {
+    "__comp": "17896441",
+    "content": "8d2f4137"
+  },
+  "/MindcrestOcean-githubio/en/docs/current/快速开始/快速部署-e59": {
+    "__comp": "17896441",
+    "content": "71f45287"
+  },
+  "/MindcrestOcean-githubio/en/docs/current/快速开始/概念-ca8": {
+    "__comp": "17896441",
+    "content": "b045cbff"
+  },
+  "/MindcrestOcean-githubio/en/docs/current/架构设计/-247": {
+    "__comp": "17896441",
+    "content": "84f3df7c"
+  },
+  "/MindcrestOcean-githubio/en/docs/current/架构设计/技术选型-d43": {
+    "__comp": "17896441",
+    "content": "d079749e"
+  },
+  "/MindcrestOcean-githubio/en/docs/current/概览-880": {
+    "__comp": "17896441",
+    "content": "fea10208"
+  },
+  "/MindcrestOcean-githubio/en/docs/current/版本计划/roadmap-c19": {
+    "__comp": "17896441",
+    "content": "763028d9"
+  },
+  "/MindcrestOcean-githubio/en/docs/current/版本计划/version-10e": {
+    "__comp": "17896441",
+    "content": "9a657d97"
+  },
+  "/MindcrestOcean-githubio/en/-432": {
+    "__comp": "1df93b7f",
+    "__context": {
+      "plugin": "43e98941"
+    },
+    "config": "5e9f5e1a"
+  }
+}

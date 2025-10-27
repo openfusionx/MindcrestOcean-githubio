@@ -1,0 +1,19 @@
+{
+  "unversionedId": "版本计划/version",
+  "id": "版本计划/version",
+  "title": "版本计划",
+  "description": "v1.0.0",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/版本计划/version.md",
+  "sourceDirName": "版本计划",
+  "slug": "/版本计划/version",
+  "permalink": "/MindcrestOcean-githubio/en/docs/current/版本计划/version",
+  "draft": false,
+  "editUrl": "https://github.com/openfusionx/MindcrestOcean-githubio/docs/版本计划/version.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "sidebar_label": "版本计划"
+  }
+}

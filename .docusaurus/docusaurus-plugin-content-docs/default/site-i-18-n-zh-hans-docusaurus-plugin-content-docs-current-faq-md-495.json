@@ -1,0 +1,20 @@
+{
+  "unversionedId": "faq",
+  "id": "faq",
+  "title": "FAQ",
+  "description": "1、主机环境校验-主机连接失败",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/faq.md",
+  "sourceDirName": ".",
+  "slug": "/faq",
+  "permalink": "/MindcrestOcean-githubio/docs/current/faq",
+  "draft": false,
+  "editUrl": "https://github.com/openfusionx/MindcrestOcean-githubio/docs/faq.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "sidebar_position": 14,
+    "id": "faq",
+    "title": "FAQ"
+  }
+}

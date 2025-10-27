@@ -1,0 +1,147 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "最新版本(unreleased)",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "docSidebar": [
+      {
+        "type": "link",
+        "label": "Overview",
+        "href": "/MindcrestOcean-githubio/en/docs/current/概览",
+        "docId": "概览"
+      },
+      {
+        "type": "category",
+        "label": "Quick Start",
+        "items": [
+          {
+            "type": "link",
+            "label": "concept",
+            "href": "/MindcrestOcean-githubio/en/docs/current/快速开始/概念",
+            "docId": "快速开始/概念"
+          },
+          {
+            "type": "link",
+            "label": "Prepare the environment",
+            "href": "/MindcrestOcean-githubio/en/docs/current/快速开始/准备环境",
+            "docId": "快速开始/准备环境"
+          },
+          {
+            "type": "link",
+            "label": "快速部署",
+            "href": "/MindcrestOcean-githubio/en/docs/current/快速开始/快速部署",
+            "docId": "快速开始/快速部署"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/MindcrestOcean-githubio/en/docs/current/category/quick-start"
+      },
+      {
+        "type": "category",
+        "label": "Use Guide",
+        "items": [
+          {
+            "type": "link",
+            "label": "使用指南",
+            "href": "/MindcrestOcean-githubio/en/docs/current/使用手册/使用指南",
+            "docId": "使用手册/使用指南"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/MindcrestOcean-githubio/en/docs/current/category/configuration-center"
+      },
+      {
+        "type": "category",
+        "label": "Architecture Design",
+        "items": [
+          {
+            "type": "link",
+            "label": "架构设计",
+            "href": "/MindcrestOcean-githubio/en/docs/current/架构设计/",
+            "docId": "架构设计/架构设计"
+          },
+          {
+            "type": "link",
+            "label": "技术选型",
+            "href": "/MindcrestOcean-githubio/en/docs/current/架构设计/技术选型",
+            "docId": "架构设计/技术选型"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/MindcrestOcean-githubio/en/docs/current/category/loader"
+      }
+    ]
+  },
+  "docs": {
+    "comminicate": {
+      "id": "comminicate",
+      "title": "交流与贡献",
+      "description": "欢迎您加入社区交流分享，也欢迎您为社区贡献自己的力量。"
+    },
+    "faq": {
+      "id": "faq",
+      "title": "FAQ",
+      "description": "1、主机环境校验-主机连接失败"
+    },
+    "使用手册/使用指南": {
+      "id": "使用手册/使用指南",
+      "title": "使用指南",
+      "description": "登录进入系统页面后在集群管理页面创建集群，DataSophon支持多集群管理和授予用户集群管理员权限。",
+      "sidebar": "docSidebar"
+    },
+    "快速开始/准备环境": {
+      "id": "快速开始/准备环境",
+      "title": "准备环境",
+      "description": "Network Requirements",
+      "sidebar": "docSidebar"
+    },
+    "快速开始/快速部署": {
+      "id": "快速开始/快速部署",
+      "title": "快速部署",
+      "description": "部署mysql",
+      "sidebar": "docSidebar"
+    },
+    "快速开始/概念": {
+      "id": "快速开始/概念",
+      "title": "概念",
+      "description": "* Cluster",
+      "sidebar": "docSidebar"
+    },
+    "架构设计/技术选型": {
+      "id": "架构设计/技术选型",
+      "title": "技术选型",
+      "description": "",
+      "sidebar": "docSidebar"
+    },
+    "架构设计/架构设计": {
+      "id": "架构设计/架构设计",
+      "title": "架构设计",
+      "description": "架构概览",
+      "sidebar": "docSidebar"
+    },
+    "概览": {
+      "id": "概览",
+      "title": "DataSophon",
+      "description": "VISION",
+      "sidebar": "docSidebar"
+    },
+    "版本计划/roadmap": {
+      "id": "版本计划/roadmap",
+      "title": "RoadMap",
+      "description": "愿景"
+    },
+    "版本计划/version": {
+      "id": "版本计划/version",
+      "title": "版本计划",
+      "description": "v1.0.0"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "概览",
+  "id": "概览",
+  "title": "MindcrestOcean",
+  "description": "MindcrestOcean是什么",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/概览.md",
+  "sourceDirName": ".",
+  "slug": "/概览",
+  "permalink": "/MindcrestOcean-githubio/docs/current/概览",
+  "draft": false,
+  "editUrl": "https://github.com/openfusionx/MindcrestOcean-githubio/docs/概览.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0,
+    "sidebar_label": "概览"
+  },
+  "sidebar": "docSidebar",
+  "next": {
+    "title": "Quick Start",
+    "permalink": "/MindcrestOcean-githubio/docs/current/category/quick-start"
+  }
+}

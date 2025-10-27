@@ -1,0 +1,37 @@
+{
+  "permalink": "/MindcrestOcean-githubio/en/blog/git",
+  "source": "@site/blog/git.md",
+  "title": "参与开源的那些事？",
+  "description": "<!-- 学完这篇文章，你将会学会如何参与开源项目",
+  "date": "2025-09-04T07:06:11.000Z",
+  "formattedDate": "September 4, 2025",
+  "tags": [
+    {
+      "label": "git",
+      "permalink": "/MindcrestOcean-githubio/en/blog/tags/git"
+    }
+  ],
+  "readingTime": 21.505,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "sea-wyq",
+      "title": "Opensource AI Engineer",
+      "url": "https://github.com/sea-wyq",
+      "imageURL": "https://avatars.githubusercontent.com/u/22475606?v=4",
+      "key": "sea-wyq"
+    }
+  ],
+  "frontMatter": {
+    "slug": "git",
+    "title": "参与开源的那些事？",
+    "authors": "sea-wyq",
+    "tags": [
+      "git"
+    ]
+  },
+  "nextItem": {
+    "title": "Welcome",
+    "permalink": "/MindcrestOcean-githubio/en/blog/welcome"
+  }
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://openfusionx.github.io/MindcrestOcean-githubio/en/blog</id>
+    <title>Mindcrest Ocean Blog</title>
+    <updated>2025-09-04T07:06:11.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://openfusionx.github.io/MindcrestOcean-githubio/en/blog"/>
+    <subtitle>Mindcrest Ocean Blog</subtitle>
+    <icon>https://openfusionx.github.io/MindcrestOcean-githubio/en/img/brand.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[参与开源的那些事？]]></title>
+        <id>https://openfusionx.github.io/MindcrestOcean-githubio/en/blog/git</id>
+        <link href="https://openfusionx.github.io/MindcrestOcean-githubio/en/blog/git"/>
+        <updated>2025-09-04T07:06:11.000Z</updated>
+        <summary type="html"><![CDATA[<!-- 学完这篇文章，你将会学会如何参与开源项目]]></summary>
+        <author>
+            <name>sea-wyq</name>
+            <uri>https://github.com/sea-wyq</uri>
+        </author>
+        <category label="git" term="git"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://openfusionx.github.io/MindcrestOcean-githubio/en/blog/welcome</id>
+        <link href="https://openfusionx.github.io/MindcrestOcean-githubio/en/blog/welcome"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to contribute DataSophon Docs and Blogs.]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to contribute DataSophon Docs and Blogs.</p>]]></content>
+        <category label="opensource" term="opensource"/>
+        <category label="athenaserving" term="athenaserving"/>
+    </entry>
+</feed>

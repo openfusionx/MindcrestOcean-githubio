@@ -1,0 +1,28 @@
+{
+  "unversionedId": "使用手册/使用指南",
+  "id": "使用手册/使用指南",
+  "title": "一、",
+  "description": "注册新用户",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/使用手册/使用指南.md",
+  "sourceDirName": "使用手册",
+  "slug": "/使用手册/使用指南",
+  "permalink": "/MindcrestOcean-githubio/docs/current/使用手册/使用指南",
+  "draft": false,
+  "editUrl": "https://github.com/openfusionx/MindcrestOcean-githubio/docs/使用手册/使用指南.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "使用指南"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Configuration Center",
+    "permalink": "/MindcrestOcean-githubio/docs/current/category/configuration-center"
+  },
+  "next": {
+    "title": "Loader",
+    "permalink": "/MindcrestOcean-githubio/docs/current/category/loader"
+  }
+}

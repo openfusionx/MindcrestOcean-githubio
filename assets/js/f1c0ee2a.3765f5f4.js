@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkathenaserving=globalThis.webpackChunkathenaserving||[]).push([[724],{9744:a=>{a.exports=JSON.parse('{"label":"athenaserving","permalink":"/mindcrestocean/blog/tags/athenaserving","allTagsPath":"/mindcrestocean/blog/tags","count":1}')}}]);

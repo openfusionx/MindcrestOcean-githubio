@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkathenaserving=globalThis.webpackChunkathenaserving||[]).push([[1285],{4075:e=>{e.exports=JSON.parse('{"permalink":"/mindcrestocean/en/blog/tags/athenaserving","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkathenaserving=globalThis.webpackChunkathenaserving||[]).push([[4844],{3270:e=>{e.exports=JSON.parse('{"permalink":"/MindcrestOcean-githubio/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

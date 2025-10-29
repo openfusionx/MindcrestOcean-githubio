@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkathenaserving=globalThis.webpackChunkathenaserving||[]).push([[9933],{4384:e=>{e.exports=JSON.parse('{"permalink":"/MindcrestOcean-githubio/blog/tags/athenaserving","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

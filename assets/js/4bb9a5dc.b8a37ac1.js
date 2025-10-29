@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkathenaserving=globalThis.webpackChunkathenaserving||[]).push([[6879],{7622:e=>{e.exports=JSON.parse('{"permalink":"/mindcrestocean/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

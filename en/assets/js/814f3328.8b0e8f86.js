@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkathenaserving=globalThis.webpackChunkathenaserving||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u53c2\u4e0e\u5f00\u6e90\u7684\u90a3\u4e9b\u4e8b\uff1f","permalink":"/mindcrestocean/en/blog/git"},{"title":"Welcome","permalink":"/mindcrestocean/en/blog/welcome"}]}')}}]);

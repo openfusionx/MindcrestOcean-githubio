@@ -28,7 +28,7 @@ const config = {
   title: 'Mindcrest Ocean',
   tagline: '致力于快速实现部署、管理、监控以及自动化运维大数据云原生平台，帮助您快速构建起稳定、高效、可弹性伸缩的大数据云原生平台',
   url: 'https://openfusionx.github.io',
-  baseUrl: '/mindcrestocean/',
+  baseUrl: '/MindcrestOcean-githubio/',
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
